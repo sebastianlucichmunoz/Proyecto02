@@ -14,7 +14,10 @@ public class Proyecto03 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+        int n1=12,n2=90,mayor=0;
+        if(n1>n2)
+            System.out.println("El mayor es :"+n1);
+        else
+            System.out.println("El mayor es :"+n2);
     }
-    
 }
